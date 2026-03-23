@@ -27,7 +27,7 @@ Vous pouvez visualiser différentes étapes de l'algorithme via le menu déroula
 * **NoiseMap / PerlinNoise :** Affiche une texture 2D en noir et blanc représentant la carte des hauteurs brute. Le mode NoiseMap combine plusieurs bruits de Perlin (PerlinNoise) de différentes fréquences et amplitudes.
 * **ColorMap :** Affiche une texture 2D plate avec les couleurs des biomes assignés selon la hauteur.
 * **FalloffMap :** Affiche le masque d'atténuation circulaire utilisé pour transformer le terrain infini en une île isolée.
-* * **Mesh :** Génère et affiche le modèle 3D final avec ses couleurs et son relief.
+* **Mesh :** Génère et affiche le modèle 3D final avec ses couleurs et son relief.
 * **Slopes :** Affiche la carte des pentes utilisée par l'algorithme d'évaluation de la jouabilité.
 * **A / U / F / B / E :** Affichent des cartes secondaires utilisées dans le calcul du score de jouabilité.
 * **P Curve /  L Curve :** Affiche une courbe du score de jouabilité en fonction de la persistance (resp. lacunarité), avec la lacunarité (resp. persistance) fixée à la valeur de l'inspecteur.
