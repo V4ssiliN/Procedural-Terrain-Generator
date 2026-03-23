@@ -2,7 +2,7 @@
 
 Ce projet a été développé dans le cadre de mon TIPE (Travail d'Initiative Personnelle Encadré sous Unity. Il s'agit d'une suite complète comprenant la génération de terrain procédural potentiellement infini, la simulation d'érosion, l'évaluation algorithmique de la jouabilité, ainsi que des outils personnalisés intégrés à l'éditeur Unity.
 
-![tipe-clip1](https://github.com/user-attachments/assets/9e9d84e8-857f-45b3-a770-f324910ccabd)
+![tipe-clip1](https://github.com/user-attachments/assets/29814d27-35d0-4394-b96b-ad949e7cc689)
 
 ## Technologies
 * **Moteur :** Unity 3D (Runtime & Editor Scripting)
