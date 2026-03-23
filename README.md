@@ -4,18 +4,18 @@ Ce projet a été développé dans le cadre de mon TIPE (Travail d'Initiative Pe
 
 **[Insérer ici un GIF montrant l'exploration du terrain en vue FPS, ou l'utilisation d'un de tes outils dans l'éditeur Unity]**
 
-## 🛠️ Technologies
+## Technologies
 * **Moteur :** Unity 3D (Runtime & Editor Scripting)
 * **Langage :** C#
 * **Concepts clés :** Génération procédurale, Mathématiques appliquées, Algorithmique (Graphes), Programmation d'Outils.
 
-## 🎯 Fonctionnalités Principales
+## Fonctionnalités Principales
 * **Génération par Bruit Fractal & Chunking :** Création de *heightmaps* via Bruit de Perlin et système d'instanciation dynamique divisant le monde en "chunks" (`EndlessTerrain.cs`) avec niveaux de détails (lod) dynamiques pour optimiser les performances d'affichage.
 * **Érosion Thermique :** Simulation de l'éboulement naturel de la matière (`Erosion.cs`) pour lisser les falaises abruptes et donner un aspect géologique réaliste.
 * **Outil d'Analyse de Jouabilité :** Algorithme mesurant à la fois le réalisme et la jouabilité du terrain pour le Level Design (calcul des pentes, détection des zones accessibles via parcours de graphe BFS) pour attribuer un "Playability Score".
 * **Exploration Interactive :** Implémentation d'un contrôleur physique (FPS) custom pour explorer le monde généré infiniment.
 
-## 🚀 Guide d'utilisation (Comment tester le générateur)
+## Guide d'utilisation (Comment tester le générateur)
 
 Le cœur du projet repose sur le script `MapGenerator.cs`. Pour l'essayer, ouvrez la scène principale dans Unity, sélectionnez l'objet contenant le **Map Generator** et modifiez ses paramètres directement dans l'inspecteur. 
 
