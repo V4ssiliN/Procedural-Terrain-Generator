@@ -1,4 +1,4 @@
-# Génération Procédurale, Analyse de Terrain & Tooling Unity
+# Génération Procédurale et Analyse de Terrain 3D sur Unity
 
 Ce projet a été développé dans le cadre de mon TIPE (Travail d'Initiative Personnelle Encadré sous Unity. Il s'agit d'une suite complète comprenant la génération de terrain procédural potentiellement infini, la simulation d'érosion, l'évaluation algorithmique de la jouabilité, ainsi que des outils personnalisés intégrés à l'éditeur Unity.
 
