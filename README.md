@@ -43,7 +43,7 @@ En plus du générateur principal, des outils sur mesure sont disponibles dans l
 * **`Terrain > Object to Terrain` :** Permet de convertir n'importe quel Mesh 3D sélectionné en un objet Terrain natif d'Unity grâce à un système de Raycasting massif.
 * **`Tools > Plant Placement` :** Ouvre une fenêtre permettant de générer une *Noise Map* et d'évaluer la "Fitness" du terrain pour y placer de la végétation selon la pente et la hauteur.
 
-## Fonctionnalités Architectures
+## Exemples de Scripts
 * **Génération par Chunking (`EndlessTerrain.cs`) :** Système d'instanciation dynamique divisant le monde en "chunks" s'affichant en fonction de la distance du joueur pour optimiser les performances.
 * **Génération de Mesh Custom (`MeshGenerator.cs`) :** L'algorithme convertit la *heightmap* 2D en un tableau de *Vertices* et calcule les *Triangles* via les index, tout en appliquant une courbe de hauteur (`AnimationCurve`).
 * **Analyse de Jouabilité (`PlayabilityScore.cs`) :** Algorithme qui permet de quantifier la "jouabilité" du terrain généré, en mesurant le réalisme et l'accessibilité du terrain.
