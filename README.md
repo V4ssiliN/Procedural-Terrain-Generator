@@ -29,7 +29,7 @@ Vous pouvez visualiser différentes étapes de l'algorithme via le menu déroula
 * **FalloffMap :** Affiche le masque d'atténuation circulaire utilisé pour transformer le terrain infini en une île isolée.
 * **Mesh :** Génère et affiche le modèle 3D final avec ses couleurs et son relief.
 * **Slopes :** Affiche la carte des pentes utilisée par l'algorithme d'évaluation de la jouabilité.
-* **A / U / F / B / E :** Affichent des cartes secondaires utilisées dans le calcul du score de jouabilité.
+* **A / U / F / B / E :** Affiche des cartes secondaires utilisées dans le calcul du score de jouabilité.
 * **P Curve /  L Curve :** Affiche une courbe du score de jouabilité en fonction de la persistance (resp. lacunarité), avec la lacunarité (resp. persistance) fixée à la valeur de l'inspecteur.
 * **PL Curve :** Affiche une courbe 3D du score de jouabilité en fonction de la persistance et de la lacunarité (prend généralement du temps, une dizaine de minutes sur mon pc)
 
