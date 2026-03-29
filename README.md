@@ -50,4 +50,4 @@ En plus du générateur principal, des outils sur mesure sont disponibles dans l
 Il utilise notamment un parcours en largeur (BFS) pour détecter les composantes connexes "marchables", évitant ainsi que le joueur ne reste bloqué dans un cratère.
 
 ---
-*Projet développé par Vassili NAKOV, Alexandre CELY.*
+*Projet développé par Vassili NAKOV, Alexandre SELY.*
