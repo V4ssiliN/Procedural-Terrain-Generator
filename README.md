@@ -15,7 +15,7 @@ Ce projet a été développé dans le cadre de mon TIPE (Travail d'Initiative Pe
 * **Outil d'Analyse de Jouabilité :** Algorithme mesurant à la fois le réalisme et la jouabilité du terrain pour le Level Design (calcul des pentes, détection des zones accessibles via parcours de graphe BFS) pour attribuer un "Playability Score".
 * **Exploration Interactive :** Implémentation d'un contrôleur physique (FPS) custom pour explorer le monde généré infiniment.
 
-## Guide d'utilisation (Comment tester le générateur)
+## Guide d'utilisation
 
 Le cœur du projet repose sur le script `MapGenerator.cs`. Pour l'essayer, ouvrez la scène principale dans Unity, sélectionnez l'objet contenant le **Map Generator** et modifiez ses paramètres directement dans l'inspecteur. 
 
