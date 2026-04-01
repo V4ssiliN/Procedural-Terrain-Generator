@@ -50,8 +50,8 @@ En plus du générateur principal, des outils sur mesure sont disponibles dans l
 Il utilise notamment un parcours en largeur (BFS) pour détecter les composantes connexes "marchables", évitant ainsi que le joueur ne reste bloqué dans un cratère.
 
 ## Crédits & Attributions
-* **Object2Terrain :** Le script de conversion de Mesh en Terrain (`Object2Terrain.cs`) n'a pas été développé par nos soins. Il s'agit d'un outil open-source intégré à ce projet pour optimiser le pipeline de création. 
-* Les autres algorithmes (Génération, Érosion, PlayabilityScore, EditorWindowTree...) sont des développements personnels.
+* **Object2Terrain :** Le script de conversion de Mesh en Terrain (`Object2Terrain.cs`) n'a pas été développé par nos soins. Il s'agit d'un outil open-source intégré à ce projet pour optimiser la pipeline de création. 
+* Les autres algorithmes (Génération, Érosion, PlayabilityScore...) sont des développements personnels.
 
 ---
 *Projet développé par Vassili NAKOV et Alexandre SELY.*
